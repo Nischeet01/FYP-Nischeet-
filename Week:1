@@ -1,0 +1,8 @@
+Django Basics
+Learned Django Framework:
+
+Installed Python and Django, set up a virtual environment.
+
+Created a basic Django project structure (settings.py, urls.py, models.py).
+
+Built a simple "Hello World" app to understand routing and views.
