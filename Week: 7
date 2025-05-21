@@ -1,3 +1,4 @@
 Created basic models for storing artisan profiles and craft metadata in the database.
-
+-go through django documentation and implement the application
+-literature review 
 Built simple views and connected them with HTML templates using Django’s templating engine.
