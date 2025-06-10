@@ -1,0 +1,3 @@
+For my project, I plan to use a Cultural Personality Quiz to help users find crafts that match their interests. I’ll use the OpenAI GPT API to understand the answers people give in the quiz—whether they choose options or write their own words.
+The AI will look at their responses, figure out their personality or preferences, and recommend related Nepali crafts.
+
