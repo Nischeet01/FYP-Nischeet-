@@ -1,0 +1,18 @@
+Weekly Progress Report
+
+This week, I completed the following tasks:
+
+Website Development
+
+Designed and implemented the homepage for the NepalCraft website using HTML and CSS. This serves as the foundation for showcasing our platform’s features.
+
+AI API Research for POC Phase
+
+Researched suitable AI APIs to support our Proof of Concept (POC), focusing on OpenAI and Google Recommendations AI. These tools allow us to rapidly prototype personalized features without building machine learning models from scratch.
+This approach aligns with our proposal to integrate external APIs for efficient validation.
+
+Next Steps:
+
+Build a mini-POC using OpenAI for the cultural personality quiz.
+
+Compare results against simpler recommendation logic
