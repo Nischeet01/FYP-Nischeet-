@@ -1,0 +1,4 @@
+Weekly Progress Update:
+This week, I focused on learning about URLs and views in Django. I explored how to define URL patterns using the urls.py file and connect 
+them to corresponding view functions. I also practiced creating simple views to handle HTTP requests and return responses using templates. 
+This knowledge will help me build the backend structure for the NepalCraft platform.
