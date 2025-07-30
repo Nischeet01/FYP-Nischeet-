@@ -1,0 +1,9 @@
+This week, I learned about apps and templates in Django. 
+I explored how Django projects are organized using apps, 
+allowing for modular and reusable components. I created 
+multiple apps within a project and registered them in the 
+settings. I also worked with Django templates to build 
+dynamic web pages, using template tags and expressions to 
+display content from views. Overall, I gained a better 
+understanding of Django’s structure and how to render HTML
+pages using templates.
