@@ -1,0 +1,20 @@
+Work Completed This Week
+
+Successfully developed the frontend of the NepalCraft website.
+
+Designed and implemented core UI components such as homepage, product listing, navigation, and artisan showcase sections.
+
+Ensured a clean, user-friendly, and responsive design suitable for cultural heritage storytelling.
+
+Packaged the frontend codebase for testing and review.
+
+
+Work Planned for Next Week
+
+Begin backend integration using Django.
+
+Connect frontend with backend APIs to enable product retrieval, artisan details, and personalization features.
+
+Set up database models for products, artisans, and storytelling elements.
+
+Implement user authentication and session handling.
