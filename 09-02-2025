@@ -1,0 +1,8 @@
+This week, I set up the connection between the frontend and backend. The frontend now attempts to fetch categories and products directly 
+from the Django REST API, instead of relying on mock data. This ensures that data displayed on the website is dynamic and managed from the backend.
+
+Next Week’s Plan
+
+Next week, I will add sample data (categories and products) to the backend using fixtures or through the admin panel, so that the Shop page displays 
+real content. I will also focus on improving the frontend design with the chosen color palette, enhance the product detail page, and ensure smooth 
+navigation across the site. If time permits, I will begin preparing for deployment of both backend and frontend.
