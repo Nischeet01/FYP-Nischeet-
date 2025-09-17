@@ -1,0 +1,15 @@
+Integrated a Cart system using React Context (CartContext.tsx) so that products can be added to and managed globally across the website.
+
+Connected the Cart icon in the navigation bar to display the number of items in the cart, with routing to the Cart page.
+
+Fixed provider wrapping issues by properly setting up CartProvider in main.tsx.
+
+Cleaned up styling issues after wrapping contexts to ensure TailwindCSS and existing styles applied correctly.
+
+Planned and documented how to upgrade the Quiz feature so that quiz answers dynamically map to categories and display relevant products from the shop. A professional Cursor AI prompt has been prepared for implementing this enhancement.
+
+Next Steps (Planned for Next Week):
+
+Implement the upgraded Quiz system, linking user answers to product categories via a clean mapping structure.
+
+Display recommended products dynamically within the quiz results page, using the same product card design as the Shop page.
