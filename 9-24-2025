@@ -1,0 +1,23 @@
+Tasks Completed:
+
+Integrated user authentication (Login, Register, Profile) into the NepalCraft platform.
+
+Connected the frontend "Get Started" button to the authentication system.
+
+Added JWT-based authentication for secure login sessions.
+
+Configured user roles (Artisan and Customer) in Django backend.
+
+Implemented token validation and protected routes in React.
+
+Challenges Faced:
+
+Page refresh was required for username updates after login.
+
+Redirect after login (e.g., to checkout) did not trigger immediately.
+
+Next Steps:
+
+Improve user session persistence and page redirection after login.
+
+Refine error handling and token refresh system.
