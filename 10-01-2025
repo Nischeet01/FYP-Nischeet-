@@ -1,0 +1,23 @@
+Week 2 – Product Image Upload & Artisan Dashboard
+
+Tasks Completed:
+
+Enabled image uploads for products via Django admin.
+
+Updated serializers and API endpoints to support product images.
+
+Created an Artisan Dashboard for managing products (add, edit, delete).
+
+Ensured artisans can upload products directly through the web interface instead of only Django admin.
+
+Challenges Faced:
+
+Existing products without images caused rendering issues.
+
+Needed to configure media root and URL settings in Django to serve uploaded images correctly.
+
+Next Steps:
+
+Add image upload capability to the artisan frontend dashboard.
+
+Display product thumbnails properly in all pages (Shop, Product Detail, Profile).
