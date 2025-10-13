@@ -1,0 +1,21 @@
+Tasks Completed:
+
+Implemented a full cart system with context management in React.
+
+Added “Add to Cart” and “Buy Now” functionality for all products.
+
+Synced cart state globally, enabling cart preview and quantity updates.
+
+Connected the checkout flow to the cart system for future order processing.
+
+Challenges Faced:
+
+Cart provider initially broke page layout due to provider placement.
+
+Required restructuring of provider hierarchy to ensure proper state management.
+
+Next Steps:
+
+Develop the checkout page for processing orders.
+
+Add order models and APIs to store purchase data in the backend.
