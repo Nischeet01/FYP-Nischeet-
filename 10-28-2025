@@ -1,0 +1,27 @@
+Co-Create Page Functionality Enhancement
+
+Tasks Completed:
+
+Completed backend model for CoCreateRequest, including fields for title, description, image, artisan, and requester.
+
+Enabled frontend form submission to create new ideas via API (image upload + text).
+
+Fixed UI issues on the Co-Create page (removed dummy entries and “No Title” placeholders).
+
+Implemented listing filters by status, keyword, and artisan username.
+
+Enhanced design to support “Join Collaboration” button and artisan profile linking.
+
+Added safe backend logic to handle anonymous and authenticated submissions.
+
+Key Learnings:
+
+Improved knowledge of DRF serializers, file uploads, and frontend form-data handling.
+
+Learned how to design collaborative workflows that connect multiple user types (artisan, requester).
+
+Next Steps:
+
+Add searchable artisan directory and real-time collaboration interactions (e.g., request responses, join options).
+
+Replace static “Collaboration Ideas” section with dynamic, database-driven content.
