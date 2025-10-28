@@ -1,0 +1,25 @@
+Authentication System Refinement
+
+Tasks Completed:
+
+Integrated JWT-based authentication in the Django backend using rest_framework_simplejwt.
+
+Fixed login state refresh issue where the username only appeared after page reload.
+
+Updated frontend AuthContext and Navigation.tsx to ensure dynamic login state rendering.
+
+Improved “Get Started” button behavior — now conditionally shows user name after login.
+
+Handled redirect flow for Buy Now → Login → Checkout without page reload.
+
+Applied better error handling for failed logins and invalid tokens.
+
+Key Learnings:
+
+Understood how React contexts interact with asynchronous authentication APIs.
+
+Improved session management by syncing localStorage and React state.
+
+Next Steps:
+
+Add password reset, email verification, and refresh tokens for improved account security.
